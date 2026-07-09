@@ -1,0 +1,29 @@
+
+
+    body{
+        background-color: rgb(180, 134, 223);
+    }
+
+    button{
+        border-radius: 10px;
+    }
+    
+    button:hover{
+        background-color: rgb(98, 4, 186);
+    }
+
+   div{
+    text-align: center;
+    font-size: large;
+    font-style: italic;
+
+   }
+
+   textarea{
+    width: 500px;
+    height: 120px;
+    border-radius: 5px;
+
+   }
+
+   
